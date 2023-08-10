@@ -27,5 +27,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Scrollex (github.com/likeness30/jquery.scrollex)
 		Responsive Tools (github.com/likeness30/responsive-tools)
